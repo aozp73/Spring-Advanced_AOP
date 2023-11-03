@@ -24,3 +24,4 @@ public class CallServiceV1 {
         log.info("call internal");
     }
 }
+
